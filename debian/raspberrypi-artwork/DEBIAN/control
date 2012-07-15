@@ -1,0 +1,9 @@
+Package: raspberrypi-artwork
+Version: 20120715
+Architecture: all
+Maintainer: Alex Bradbury <asb@asbradbury.org>
+Installed-Size: 92
+Section: x11
+Priority: extra
+Homepage: https://github.com/asb/raspberrypi-artwork
+Description: Copy of the Raspberry Pi logo

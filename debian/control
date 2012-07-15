@@ -1,0 +1,14 @@
+Source: raspberrypi-artwork
+Priority: extra
+Maintainer: Alex Bradbury <asb@asbradbury.org>
+Build-Depends: debhelper (>= 8.0.0), quilt
+Standards-Version: 3.9.2
+Section: x11
+Homepage: https://github.com/asb/raspberrypi-artwork
+#Vcs-Git: todo
+#Vcs-Browser: todo
+
+Package: raspberrypi-artwork
+Architecture: all
+Depends: ${misc:Depends}
+Description: Copy of the Raspberry Pi logo
